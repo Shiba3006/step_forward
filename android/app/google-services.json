@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750035518133",
+    "project_id": "step-forward-3e60d",
+    "storage_bucket": "step-forward-3e60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750035518133:android:d578fde87832d4f56af4fc",
+        "android_client_info": {
+          "package_name": "com.shiba.step_forward"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pkWbF6LnP4okxv_PUo0_ryJkDaEPOzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
